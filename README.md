@@ -1,4 +1,4 @@
-##Loading and Displaying the TripAdvisor Hotel Reviews Dataset
+# Loading and Displaying the TripAdvisor Hotel Reviews Dataset
 ---
 ---
 - Display the first 5 rows using `df.head()` to understand the structure (columns: `Review`, `Rating`).
@@ -22,7 +22,9 @@
 - Apply the `preprocess()` function to each review and store the lemmatized tokens.
 - Calculate original token count and cleaned (lemmatized) token count.
 - Display a preview with both counts.
-![image](https://github.com/user-attachments/assets/d609092e-e18b-4878-b4e7-cc967d30a3ba) ![image](https://github.com/user-attachments/assets/cea0479b-f98b-457a-8004-6ce9bfeb8919)
+
+![image](https://github.com/user-attachments/assets/d609092e-e18b-4878-b4e7-cc967d30a3ba) 
+![image](https://github.com/user-attachments/assets/cea0479b-f98b-457a-8004-6ce9bfeb8919)
 
 
 ---
