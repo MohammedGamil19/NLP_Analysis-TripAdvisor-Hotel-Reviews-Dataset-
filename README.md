@@ -1,8 +1,10 @@
-#Loading and Displaying the TripAdvisor Hotel Reviews Dataset
+##Loading and Displaying the TripAdvisor Hotel Reviews Dataset
 ---
 ---
 - Display the first 5 rows using `df.head()` to understand the structure (columns: `Review`, `Rating`).
-  ![image](https://github.com/user-attachments/assets/05d5deca-df26-4148-ad15-2d32295f8886)  ![image](https://github.com/user-attachments/assets/8ab01d50-67e8-40d7-b7c4-acb35d915c01)
+
+![image](https://github.com/user-attachments/assets/05d5deca-df26-4148-ad15-2d32295f8886)
+![image](https://github.com/user-attachments/assets/8ab01d50-67e8-40d7-b7c4-acb35d915c01)
 
 
 ---
